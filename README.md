@@ -1,9 +1,9 @@
 
 ## Playground
 
-Resources included: served at http://localhost:9090 <br />
-Playground served at http://localhost:3010 <br />
-BrowserSync UI served at http://localhost:3011 <br />
+Resources included: served at http://localhost:9090 &nbsp;
+Playground served at http://localhost:3010 &nbsp;
+BrowserSync UI served at http://localhost:3011
 
 ```
 $ npm install -g browser-sync
