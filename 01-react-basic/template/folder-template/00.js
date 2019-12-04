@@ -1,11 +1,5 @@
 
-class MyApp extends React.Component {
-  render() {
-    return(
-      <div>hello</div>
-    )
-  }
-}
+const MyApp = () => <div>hello</div>
 
-const reactContainer = document.getElementById('react-container');
-ReactDOM.render(<MyApp />, reactContainer);
+const reactContainer = document.getElementById('react-container')
+ReactDOM.render(<MyApp />, reactContainer)

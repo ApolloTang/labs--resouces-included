@@ -1,6 +1,0 @@
-
-  yarn start
-  npm start
-
-
-

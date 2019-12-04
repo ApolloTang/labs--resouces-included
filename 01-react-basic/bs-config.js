@@ -21,7 +21,7 @@ module.exports = {
         "change"
     ],
     "watch": false,
-    "ignore": [],
+  "ignore": ['**/.DS_Store'],
     "single": false,
     "watchOptions": {
       "ignoreInitial": true,
